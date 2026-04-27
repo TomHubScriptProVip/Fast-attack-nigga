@@ -1,4 +1,4 @@
-
+-- make by Sigma Hub
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TomHubScriptProVip/Fast-attack-nigga/refs/heads/main/Fastattackv1"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TomHubScriptProVip/Fast-attack-nigga/refs/heads/main/Ultrafastattack"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TomHubScriptProVip/Fast-attack-nigga/refs/heads/main/FastMax.lua"))()
